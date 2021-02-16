@@ -1,0 +1,6 @@
+com/example/demo/DemoApplication.class
+com/example/demo/repository/BookRepository.class
+com/example/demo/model/Book.class
+com/example/demo/model/ErrorMessage.class
+com/example/demo/controller/BookController.class
+com/example/demo/service/BookService.class
